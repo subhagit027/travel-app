@@ -1,0 +1,23 @@
+.hero {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: #fff;
+  }
+  
+  .hero h2 {
+    font-size: 2.5rem;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+  }
+  
+  .btn-book-now {
+    padding: 0.5rem 1rem;
+    color: #333;
+    background-color: #ffd700;
+    border: none;
+    cursor: pointer;
+  }
+  
